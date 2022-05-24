@@ -18,6 +18,7 @@ public class DemoApplication {
         System.out.println("hello git-05");
         System.out.println("master git-test");
         System.out.println("hello git-06");
+        System.out.println("push test");
     }
 
 }
