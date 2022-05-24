@@ -12,6 +12,7 @@ public class DemoApplication {
         ConfigurableApplicationContext run = SpringApplication.run(DemoApplication.class, args);
         System.out.println("hello git");
         System.out.println("hello git01");
+        System.out.println("hello git02");
     }
 
 }
