@@ -16,6 +16,7 @@ public class DemoApplication {
         System.out.println("hello git03");
         System.out.println("hello git-04");
         System.out.println("hello git-05");
+        System.out.println("hello git-06");
     }
 
 }
